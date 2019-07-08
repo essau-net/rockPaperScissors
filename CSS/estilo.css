@@ -1,0 +1,99 @@
+header
+{
+  width: 50%;
+  height: 100px;
+  text-align: center;
+  margin: auto;
+  background-color: white;
+}
+#marcador
+{
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  height: 120px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+#contenedor
+{
+  width: 25%;
+  height:60px;
+  margin: auto;
+  font-size: 40px;
+
+}
+
+#user
+{
+  padding-left: 15%;
+  float:left;
+}
+
+#guion
+{
+  padding-left: 15%;
+  float: left;
+}
+
+#computer
+{
+  padding-left: 15%;
+  float: left;
+
+}
+
+.limpiador
+{
+  clear: left;
+  height: : 5%;
+}
+
+#jugadores
+{
+  width: 80%;
+  margin: auto;
+}
+
+#contenedorJ1
+{
+    width:50%;
+    margin: auto;
+}
+
+#piedra
+{
+  float:left;
+  width: 25%;
+  padding-top: 7%;
+  padding-left: 15%;
+}
+
+#papel
+{
+  float: left;
+  width: 25%;
+  padding-top: 7%;
+  padding-left: 15%;
+}
+
+#contenedorJ2
+{
+  width:50%;
+  margin: auto;
+}
+
+#tijeras
+{
+  width: 40%;
+  padding-top: 7%;
+  padding-left: 25%;
+  margin: auto;
+}
+#contenedorJ3
+{
+  width:40%;
+  margin: auto;
+}
